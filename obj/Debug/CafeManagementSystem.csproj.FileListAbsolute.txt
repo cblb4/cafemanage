@@ -1,0 +1,258 @@
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeManagementSystem.RegisterForm.resources
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Azure.Core.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Azure.Identity.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.ClientModel.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Memory.Data.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Azure.Core.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Azure.Identity.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.ClientModel.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Memory.Data.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\source\repos\CafeManagementSystem\obj\Debug\CafeMana.32F80087.Up2Date
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Azure.Core.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Azure.Identity.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.ClientModel.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Memory.Data.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.AccessControl.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Permissions.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Azure.Core.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Azure.Identity.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.ClientModel.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Memory.Data.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.AccessControl.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Permissions.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.RegisterForm.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeMana.32F80087.Up2Date
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminAddUsers.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminDashboardForm.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminMainForm.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminAddProducts.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.CashierMainForm.resources
+C:\Users\carlo\Documents\CARLOS BLANCO\2nd yr - 1st term\OOP (LAB)\CafeManagementSystem\obj\Debug\CafeManagementSystem.CashierOrder.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\CafeManagementSystem.exe
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\CafeManagementSystem.pdb
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Azure.Core.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Azure.Identity.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Buffers.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.ClientModel.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Memory.Data.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Memory.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Text.Json.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Azure.Core.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Azure.Identity.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Buffers.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.ClientModel.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Memory.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Memory.Data.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Text.Json.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.AdminAddProducts.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.AdminAddUsers.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.AdminDashboardForm.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.AdminMainForm.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.CashierMainForm.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.CashierOrder.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.Form1.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.RegisterForm.resources
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeMana.32F80087.Up2Date
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.exe
+C:\Users\carlo\Source\Repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagementSystem.pdb

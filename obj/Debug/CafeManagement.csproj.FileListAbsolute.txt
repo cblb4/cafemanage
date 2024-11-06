@@ -1,0 +1,4 @@
+C:\Users\carlo\source\repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagement.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\carlo\source\repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\CafeManagementsystem\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache

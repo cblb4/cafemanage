@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|c:\\users\\carlo\\source\\repos\\cafemanagementsystem\\cafemanagement\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:adminaddusersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:adminaddusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:adminaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2316003-F35B-4F7E-B6DB-ACF5DEEF7A9C}|CafeManagementSystem.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:09:14.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\connection.cs",
+              "RelativeDocumentMoniker": "connection.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\connection.cs",
+              "RelativeToolTip": "connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:29:45.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminDashboardForm.cs",
+              "RelativeToolTip": "AdminDashboardForm.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:19:17.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddProducts.cs",
+              "RelativeDocumentMoniker": "AdminAddProducts.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddProducts.cs",
+              "RelativeToolTip": "AdminAddProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:16:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAddUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddUsers.cs",
+              "RelativeDocumentMoniker": "AdminAddUsers.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddUsers.cs [Design]",
+              "RelativeToolTip": "AdminAddUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:55:57.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminAddUsersdata.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddUsersdata.cs",
+              "RelativeDocumentMoniker": "AdminAddUsersdata.cs",
+              "ToolTip": "C:\\Users\\carlo\\source\\repos\\CafeManagementsystem\\CafeManagement\\AdminAddUsersdata.cs",
+              "RelativeToolTip": "AdminAddUsersdata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:55:47.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
